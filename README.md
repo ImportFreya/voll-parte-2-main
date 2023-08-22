@@ -1,5 +1,4 @@
 
-![React com Typescript: Desenvolva um sistema de cadastro e autenticação](https://imgur.com/AiM33zX.png)
 
 # React com Typescript: Desenvolva um sistema de cadastro e autenticação
 
