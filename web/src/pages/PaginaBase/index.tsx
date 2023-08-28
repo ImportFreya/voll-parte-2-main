@@ -7,7 +7,6 @@ export default function PaginaBase() {
     return(
         <>
         <Cabecalho />
-
         <main>
             <Outlet />
         </main>
